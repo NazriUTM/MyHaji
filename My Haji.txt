@@ -11,3 +11,5 @@ Todos, Setting, Location: https://www.youtube.com/watch?v=sgFhF53YmT4&feature=yo
 Guide: https://www.youtube.com/watch?v=7W0bal6U49k&feature=youtu.be
 Profile and Login: https://www.youtube.com/watch?v=x9BkjXlglck&feature=youtu.be
 Backend: https://www.youtube.com/watch?v=FLPa9d_QXmQ&feature=youtu.be
+
+Git Repo: https://github.com/NazriUTM/MyHaji.git
