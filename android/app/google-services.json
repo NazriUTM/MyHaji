@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "546713244532",
+    "firebase_url": "https://backend-tabung-haji.firebaseio.com",
+    "project_id": "backend-tabung-haji",
+    "storage_bucket": "backend-tabung-haji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546713244532:android:3164a53554bd970a081221",
+        "android_client_info": {
+          "package_name": "com.example.myhaji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546713244532-dfjgevp4i56j09qjglnk2ks9p5v688re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC085fiS7iuXmMtIJSF_9JTJ79WLwQ0uEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546713244532-dfjgevp4i56j09qjglnk2ks9p5v688re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
